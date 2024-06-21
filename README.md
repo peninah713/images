@@ -102,9 +102,8 @@ might look something like this:
 
 ```html
 <img
-  src="../images/my_company_logo.png"
-  alt="my company name"
-  title="We're here to help you!"
+  src="https://i.imgur.com/H1qsYEl.png"
+  alt="comedic crow gets wholesome support"
 />
 ```
 
